@@ -1,11 +1,12 @@
 {
     "author": "Borja Cabañas Morales",
-    "name": "censorify",
+    "name": "censorifyborja",
     "version": "0.1.1",
     "description": "Tacha palabras censuradas de un texto dado.",
     "main": "censortext",
     "repository": {
-        "type": "git"
+        "type": "git",
+        "url": "git@github.com:borcabmor/censorify.git"
     },
     "keywords": [
         "censor",
